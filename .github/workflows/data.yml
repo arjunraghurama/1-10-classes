@@ -1,4 +1,4 @@
-name: Account Backup Workflow
+name: Update URL data
 
 on:
 # This scheduled backup will run at 00:00 UTC. But the Github schedules are not dependable. There could be delay in actions. So adding a manual trigger
