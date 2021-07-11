@@ -48,7 +48,7 @@ YOUTUBE_URL_PREFIX = "https://www.youtube.com/watch?v="
 
 dataset = []
 for video in r["items"]:
-  if "Samveda 2021-22" in video["snippet"]["title"]  and "Urdu Medium" not in video["snippet"]["title"]:
+  if "Samveda 2021-22" in video["snippet"]["title"]  and "Urdu" not in video["snippet"]["title"]:
     title = video["snippet"]["title"]
     date = video["snippet"]["publishedAt"]
     url = YOUTUBE_URL_PREFIX+video["snippet"]["resourceId"]["videoId"]
