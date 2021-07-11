@@ -24,3 +24,15 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
+      - name: Create data.json file
+        run: |
+          pip install -r requirements.txt
+          python main.py
+      - name: Push to Github
+        run: |
+          git config --global user.name 'arjunraghurama'
+          git config --global user.email 'arjunr0019@gmail.com'
+          git add .
+          d=`date +%Y-%m-%d`
+          git commit -m "Latest video URLs $d"
+          git push
