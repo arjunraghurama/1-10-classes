@@ -30,7 +30,6 @@ jobs:
         run: |
           pwd
           ls
-          exit 0
           pip install -r requirements.txt
           python data.py
       - name: Push to Github
