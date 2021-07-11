@@ -89,6 +89,6 @@ for entry in dataset:
         if standard in entry[1]:
             res[standard].append(entry)
 
-file_path = os.path.join(DATA_FILE_DIR, 'data.json')
+file_path = os.path.join(DATA_FILE_DIR, 'my-class/data.json')
 with open(file_path, 'w') as f:
     json.dump(res, f, indent=2)
