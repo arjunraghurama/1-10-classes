@@ -26,7 +26,6 @@ jobs:
             ${{ runner.os }}-pip-
       - name: Create data.json file
         run: |
-          pip install -r requirements.txt
           python data.py
       - name: Push to Github
         run: |
