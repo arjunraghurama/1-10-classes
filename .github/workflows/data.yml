@@ -27,7 +27,7 @@ jobs:
       - name: Create data.json file
         run: |
           pip install -r requirements.txt
-          python main.py
+          python data.py
       - name: Push to Github
         run: |
           git config --global user.name 'arjunraghurama'
