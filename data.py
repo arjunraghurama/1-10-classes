@@ -5,7 +5,7 @@ from collections import defaultdict
 import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_FILE_DIR = os.path.join(BASE_DIR, 'data')
+DATA_FILE_DIR = os.path.join(BASE_DIR, 'my-class')
 
 API_KEY = os.getenv("API_KEY")
 if API_KEY is None:
@@ -89,6 +89,6 @@ for entry in dataset:
         if standard in entry[1]:
             res[standard].append(entry)
 
-file_path = os.path.join(DATA_FILE_DIR, 'my-class/data.json')
+file_path = os.path.join(DATA_FILE_DIR, 'data/data.json')
 with open(file_path, 'w') as f:
     json.dump(res, f, indent=2)
