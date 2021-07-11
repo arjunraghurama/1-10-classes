@@ -6,12 +6,13 @@ import SessionState
 st.set_page_config(
         page_title="My Class",
         # layout="wide",
+        initial_sidebar_state="expanded"
     )
 
 add_selectbox = st.sidebar.selectbox(
     "Class",
     ("Classes 1-3", "4th Class", "5th Class", "6th Class", "7th Class", "8th Class", "9th Class", "10th Class"),
-    index=5
+    index=1
 )
 
 response = requests.get("https://raw.githubusercontent.com/arjunraghurama/1-10-classes/main/data/data.json")
