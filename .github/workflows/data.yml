@@ -3,7 +3,7 @@ name: Update URL data
 on:
 # This scheduled backup will run at 00:00 UTC. But the Github schedules are not dependable. There could be delay in actions. So adding a manual trigger
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0,12 * * *'
 # This is manual trigger for Account backup. 
   workflow_dispatch:
 
