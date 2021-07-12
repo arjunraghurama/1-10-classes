@@ -18,14 +18,14 @@ add_selectbox = st.sidebar.selectbox(
 )
 
 # To cache the data for 1 Day
-session_state = SessionState.get(data=None,last_updated=None,days=0)
+session_state = SessionState.get(data=None,last_updated=None,hours=0)
 
 now = datetime.now()
 if session_state.last_updated is not None:
     lastUpdate = session_state.last_updated
-    session_state.days = (now -lastUpdate).days
+    session_state.hours = ((now - lastUpdate).seconds)/(60*60)
 
-if session_state.last_updated is None or session_state.days >=1:
+if session_state.last_updated is None or session_state.hours >= 10:
     response = requests.get("https://raw.githubusercontent.com/arjunraghurama/1-10-classes/main/data/data.json")
     url_data = json.loads(response.text)
     session_state.data = url_data
