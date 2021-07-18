@@ -79,7 +79,7 @@ while pageToken:
   pageToken = r.get("nextPageToken")
   time.sleep(0.1)
 
-dataset.reverse()
+# dataset.reverse()
 
 class_list = ["Classes 1-3", "4th Class", "5th Class", "6th Class", "7th Class", "8th Class", "9th Class", "10th Class"]
 
