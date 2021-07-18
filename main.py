@@ -35,6 +35,6 @@ if session_state.last_updated is None or session_state.hours >= 10:
 # data = json.loads(response.text)
 
 video_list = session_state.data[add_selectbox]
-for i in range(len(video_list)):
+for i in range(len(video_list)-1, -1, -1):
     st.header(str(1+i)+ ". " + video_list[i][1])
     st.video(video_list[i][2])
