@@ -5,7 +5,7 @@ import SessionState
 from datetime import datetime
 
 st.set_page_config(
-        page_title="My Class",
+        page_title="ನನ್ನ ಶಾಲೆ",
         page_icon="📚",
         # layout="wide",
         initial_sidebar_state="expanded"
