@@ -34,7 +34,7 @@ jobs:
       - name: Push to Github
         run: |
           git config --global user.name 'arjunraghurama'
-          git config --global user.email 'arjunr0019@gmail.com'
+          git config --global user.email 'arjunraghurama@users.noreply.github.com'
           git add .
           d=`date +%Y-%m-%d`
           git commit -m "Latest video URLs $d"
