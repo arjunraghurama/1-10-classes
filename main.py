@@ -42,7 +42,8 @@ video_list = session_state.data[selected_class]
 
 # Since the format for 1-3 class video title has changed, these to lines has been added
 if selected_class == "Classes 1-3":
-        video_list.append(session_state.data["1-3Class"])
+    for vid in session_state.data["1-3Class"]:
+        video_list.append(vid)
         
 for i in range(len(video_list)-1, -1, -1):
     st.header("ಪಾಠ " + str(1+i)+ " : " + video_list[i][1])
