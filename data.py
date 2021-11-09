@@ -65,6 +65,7 @@ while pageToken:
   ).json()
 
   for video in r["items"]:
+      title = ""
       if "Samveda 2021-22" in video["snippet"]["title"]  and "Urdu" not in video["snippet"]["title"]:
         title = video["snippet"]["title"]
         date = video["snippet"]["publishedAt"]
