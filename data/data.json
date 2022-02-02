@@ -1548,19 +1548,9 @@
       "https://www.youtube.com/watch?v=xlrFs9ZdSkI"
     ],
     [
-      "2022-01-30T11:42:42Z",
-      "Samveda 2021-22 | Day-134 | 9th Class | Hindi | 8:00AM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=YpgJ5Fo0T6U"
-    ],
-    [
       "2022-01-30T11:46:00Z",
       "Samveda 2021-22 | Day-135 | 9th Class | Maths | 8:00AM | 03-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=q2LpGTWSqJ4"
-    ],
-    [
-      "2022-01-30T11:53:05Z",
-      "Samveda 2021-22 | Day-134 | 9th Class | Science | 8:30AM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=zu47CqjYhSY"
     ],
     [
       "2022-01-30T11:57:03Z",
@@ -1576,6 +1566,16 @@
       "2022-01-31T07:12:00Z",
       "Samveda 2021-22 | Day-136 | 9th Class | Kannada | 8:00AM | 04-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=7C9bZmxTXsA"
+    ],
+    [
+      "2022-01-30T11:42:42Z",
+      "Samveda 2021-22 | Day-134 | 9th Class | Hindi | 8:00AM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=YpgJ5Fo0T6U"
+    ],
+    [
+      "2022-01-30T11:53:05Z",
+      "Samveda 2021-22 | Day-134 | 9th Class | Science | 8:30AM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=zu47CqjYhSY"
     ]
   ],
   "8th Class": [
@@ -2285,19 +2285,9 @@
       "https://www.youtube.com/watch?v=jlV_Yfuz-Ic"
     ],
     [
-      "2022-01-30T12:03:28Z",
-      "Samveda 2021-22 | Day-134 | 8th Class | Maths | 9:00AM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=U4sKNuIE8Ug"
-    ],
-    [
       "2022-01-30T12:07:15Z",
       "Samveda 2021-22 | Day-135 | 8th Class | Kannada | 9:00AM | 03-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=2pWPkhXVMFk"
-    ],
-    [
-      "2022-01-30T12:14:39Z",
-      "Samveda 2021-22 | Day-134 | 8th Class | Social Science| 9:30AM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=_45I3gDRLrU"
     ],
     [
       "2022-01-30T12:18:09Z",
@@ -2313,6 +2303,16 @@
       "2022-01-31T06:49:10Z",
       "Samveda 2021-22 | Day-136 | 8th Class | Science | 9:30AM | 04-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=JBjn_d4cN9A"
+    ],
+    [
+      "2022-01-30T12:03:28Z",
+      "Samveda 2021-22 | Day-134 | 8th Class | Maths | 9:00AM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=U4sKNuIE8Ug"
+    ],
+    [
+      "2022-01-30T12:14:39Z",
+      "Samveda 2021-22 | Day-134 | 8th Class | Social Science| 9:30AM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=_45I3gDRLrU"
     ]
   ],
   "7th Class": [
@@ -3017,24 +3017,9 @@
       "https://www.youtube.com/watch?v=88ZKuJM8G48"
     ],
     [
-      "2022-01-30T12:24:31Z",
-      "Samveda 2021-22 | Day-134 | 7th Class | Maths | 3:00PM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=KWGp3Wn_c2I"
-    ],
-    [
-      "2022-01-30T12:45:07Z",
-      "Samveda 2021-22 | Day-134 | 7th Class | Social Science | 5:00PM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=lQDdGkwOEOA"
-    ],
-    [
       "2022-01-30T12:47:21Z",
       "Samveda 2021-22 | Day-135 | 7th Class | Maths | 5:00PM | 03-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=AwjS90XDaYg"
-    ],
-    [
-      "2022-01-30T12:48:38Z",
-      "Samveda 2021-22 | Day-134 | 7th Class | Science | 5:30PM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=Bcze02PoxcA"
     ],
     [
       "2022-01-30T12:50:14Z",
@@ -3060,6 +3045,21 @@
       "2022-01-30T12:45:56Z",
       "Samveda 2021-22 | Day-133 | 7th Class | Maths | 5:30PM | 01-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=-m-dn0v9MQI"
+    ],
+    [
+      "2022-01-30T12:24:31Z",
+      "Samveda 2021-22 | Day-134 | 7th Class | Maths | 3:00PM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=KWGp3Wn_c2I"
+    ],
+    [
+      "2022-01-30T12:45:07Z",
+      "Samveda 2021-22 | Day-134 | 7th Class | Social Science | 5:00PM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=lQDdGkwOEOA"
+    ],
+    [
+      "2022-01-30T12:48:38Z",
+      "Samveda 2021-22 | Day-134 | 7th Class | Science | 5:30PM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=Bcze02PoxcA"
     ]
   ],
   "6th Class": [
@@ -3834,19 +3834,9 @@
       "https://www.youtube.com/watch?v=aZupRdFHl5E"
     ],
     [
-      "2022-01-30T12:35:25Z",
-      "Samveda 2021-22 | Day-134 | 6th Class | Hindi | 3:30PM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=741H-dowzJI"
-    ],
-    [
       "2022-01-30T12:39:54Z",
       "Samveda 2021-22 | Day-135 | 6th Class | Maths | 3:30PM | 03-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=sq2cHTU0l38"
-    ],
-    [
-      "2022-01-30T12:41:49Z",
-      "Samveda 2021-22 | Day-134 | 6th Class | Maths | 4:00PM | 02-02-2022 | DD Chandana",
-      "https://www.youtube.com/watch?v=4w62-H0h5u0"
     ],
     [
       "2022-01-30T12:43:41Z",
@@ -3862,6 +3852,16 @@
       "2022-01-31T07:00:27Z",
       "Samveda 2021-22 | Day-136 | 6th Class | Kannada | 4:00PM | 04-02-2022 | DD Chandana",
       "https://www.youtube.com/watch?v=G5_IFZRzNnc"
+    ],
+    [
+      "2022-01-30T12:35:25Z",
+      "Samveda 2021-22 | Day-134 | 6th Class | Hindi | 3:30PM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=741H-dowzJI"
+    ],
+    [
+      "2022-01-30T12:41:49Z",
+      "Samveda 2021-22 | Day-134 | 6th Class | Maths | 4:00PM | 02-02-2022 | DD Chandana",
+      "https://www.youtube.com/watch?v=4w62-H0h5u0"
     ]
   ],
   "5th Class": [
